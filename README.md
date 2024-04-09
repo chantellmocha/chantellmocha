@@ -1,6 +1,6 @@
 ### hello world! 👋
 
-Welcome to my sad (for now) Github! Please say hello.
+Welcome to my evolving Github! Please say hello.
 <br>
 things about me:
 - Shiba enthusiast
