@@ -3,8 +3,8 @@
 Welcome to my evolving Github! Please say hello.
 <br>
 things about me:
-- Shiba enthusiast
-- Mid-level IT professional
-- Defensive security padawan
+- shiba enthusiast
+- mid-level IT professional
+- defensive security padawan
 - 🌟 CompTIA triforce certified
-- 🧠 Mental health advocate
+- 🧠 mental health advocate
