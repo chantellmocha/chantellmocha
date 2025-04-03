@@ -2,7 +2,7 @@
 
 Welcome to my evolving Github! Please say hello.
 <br>
-things about me:
+Things about me:
 - shiba enthusiast
 - mid-level IT professional
 - defensive security padawan
